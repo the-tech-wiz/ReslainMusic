@@ -4,4 +4,5 @@ Replaces 4 basegame tracks with their counterparts in the Slay The Spire: Reslai
 I do not own any assets in this mod.
 
 Music by Clark Aboud.
+
 Original Slay The Spire: Reslain cover art by Anailis Dorta.
